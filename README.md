@@ -3,6 +3,9 @@
 ![Open issues](https://img.shields.io/github/issues/Kaden5480/poy-more-fov-range?color=d65c5c)
 ![License](https://img.shields.io/github/license/Kaden5480/poy-more-fov-range?color=a35cd6)
 
+> [!IMPORTANT]
+> This mod is obsolete and has been merged into [Tweaks of Yore](https://github.com/Kaden5480/poy-tweaks-of-yore)
+
 A
 [Peaks of Yore](https://store.steampowered.com/app/2236070/)
 which increases the configurable FOV range.
